@@ -1,0 +1,2 @@
+streamlit
+msql-connector-pyton
